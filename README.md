@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 dejandjuric
 
 <<<<<<< HEAD
 12
 =======
+=======
+LAB2-4
+darkodj
+nikolas
+>>>>>>> ac30bfdacecac417efa08187ee906275189d2ba6
 Филип
 
 
